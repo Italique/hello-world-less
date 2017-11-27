@@ -1,0 +1,31 @@
+/* CSS */
+
+h1 {
+font-family: Arial;
+font-size: 18pt;
+font-weight: bold;
+color: #ff6666;
+}
+
+p {
+font-family: Helvetica, Arial;
+font-size: 14pt;
+} 
+
+#boite_paragraphe {
+	float:left;
+	width: 500px;
+	padding: 20px;
+	margin: 5px ;
+	border: 2px solid grey;
+	background-color: #ffffe3;
+}
+
+img {
+	float: left;
+
+}
+
+footer{
+	clear: both;
+}
